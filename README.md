@@ -1,0 +1,1 @@
+[![Math Utility Project (CI included) | © 2026](https://github.com/LeThaoLyDE200337/Sale_management_system/actions/workflows/maven.yml/badge.svg)](https://github.com/LeThaoLyDE200337/Sale_management_system/actions/workflows/maven.yml)
